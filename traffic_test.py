@@ -4,7 +4,7 @@ import pickle
 
 #############################################
 
-frameWidth = 640  # CAMERA RESOLUTION
+frameWidth = 650  # CAMERA RESOLUTION
 frameHeight = 480
 brightness = 180
 threshold = 0.75  # PROBABLITY THRESHOLD
